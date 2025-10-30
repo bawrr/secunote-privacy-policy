@@ -1,0 +1,14 @@
+{
+  "android": {
+    "latest": "0.7.6+12",
+    "min": "0.7.5+11",
+    "url": "https://play.google.com/store/apps/details?id=com.secunote.app",
+    "notes": "Includes remote update prompts, refined search behavior, and layout polish for notes/recording flows."
+  },
+  "ios": {
+    "latest": "0.7.6+12",
+    "min": "0.7.5+11",
+    "url": "https://testflight.apple.com/join/YOUR_TESTFLIGHT_CODE",
+    "notes": "Includes remote update prompts, refined search behavior, and layout polish for notes/recording flows."
+  }
+}
